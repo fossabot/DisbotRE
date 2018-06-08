@@ -1,0 +1,19 @@
+{
+	"title": "Erreur ❌",
+	"timestamp": "2018-05-19T19:19:25.837Z",
+	"footer": {
+		"icon_url": "https://nooody.owns-this.site/48539e2f.png",
+		"text": "Erreur : Disbot:RE"
+	},
+	"thumbnail": {
+		"url": "https://chimist.ga/avatar.png"
+	},
+	"author": {
+		"name": "Disbot:RE",
+		"icon_url": "https://nooody.owns-this.site/48539e2f.png"
+	},
+	"fields": [{
+		"name": "Erreur, veuillez donner une raison !",
+    "value": "Vérifiez votre message !"
+	}]
+}

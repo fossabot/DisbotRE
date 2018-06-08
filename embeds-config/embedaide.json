@@ -12,8 +12,7 @@
     "name": "DisbotRE",
     "icon_url": "https://chimist.ga/avatar.png"
   },
-  "fields": [
-    {
+  "fields": [{
       "name": "ds.help",
       "value": "Vous envoie l'aide en message privé"
     },
@@ -21,7 +20,7 @@
       "name": "ds.ping",
       "value": "Vous envoie le temps de latence entre vous et le bot"
     },
-     {
+    {
       "name": "ds.ban @mention {raison}",
       "value": "Je ban la personne mentionnée si __vous et si j'ai__ les permissions. (Un message d'information sera envoyé dans le channel #modlog si il existe)"
     },

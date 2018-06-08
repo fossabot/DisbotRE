@@ -1,6 +1,6 @@
 {
   "name": "disbotre",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "DisbotRE is currently in BETA !",
   "main": "app.js",
   "scripts": {
