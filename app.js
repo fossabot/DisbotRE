@@ -103,3 +103,5 @@ client.on('message', message => {
 })
 
 client.login(token);
+
+// Copyright @Nooody#4137 [https://github.com/NooodyFR/] on https://github.com/NooodyFR/DisbotRE
