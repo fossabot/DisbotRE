@@ -26,3 +26,8 @@ Voir au niveau du Wiki
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![DisbotRE](https://discordapp.com/api/guilds/440167231654068234/embed.png?style=shield)](https://discord.gg/NvsTGs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNooodyFR%2FDisbotRE.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNooodyFR%2FDisbotRE?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNooodyFR%2FDisbotRE.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNooodyFR%2FDisbotRE?ref=badge_large)
